@@ -85,11 +85,44 @@ class ForexScriptGenerator:
             Tone: {category_info['tone']}
             
             SPECIAL FOR RAW STORIES:
-            If this is "Raw Trading Stories", write like telling a friend a real story:
-            - Show emotional journey: careful → bored → impulsive → regret
-            - Use natural speech: "Spent 4 hours building position. Result? +$5. Cool. Whatever."
-            - Include internal dialogue: "Quick win," I told myself
-            - Be vulnerable about mistakes
+            If this is "Raw Trading Stories", write like these proven successful stories:
+            
+            REQUIRED STYLE PATTERNS:
+            - Start with 2-3 VERY short sentences: "Nailed the entry. Clean setup. Textbook precision."
+            - Show the careful setup first: "Monday to Thursday: Careful. Disciplined. Steady wins."
+            - Use dramatic turning point: "Then I got bold." / "Friday morning? One red candle."
+            - Include internal dialogue: "Thought, 'Why not hold? It's gonna run.'"
+            - End with brutal honesty: "That green trade? Gone. Plus interest."
+            - Use casual, vulnerable tone throughout
+            
+            REFERENCE THESE SUCCESSFUL PATTERNS:
+            
+            Pattern 1 - Professional Setup → Greed → Disaster:
+            "Nailed the entry. Clean setup. Textbook precision. Everything aligned — confluences, volume, timing. Took partials. Moved stop to break-even. Professional stuff. Then I got bold. Thought, 'Why not hold? It's gonna run.' News dropped. Spiked. Reversed. Slapped me across the face. That green trade? Gone. Plus interest."
+            
+            Pattern 2 - Week of Progress → One Bad Decision:
+            "Monday to Thursday: Careful. Disciplined. Steady wins. Small gains. Account looking cute. Friday morning? One red candle. One fakeout. One bad reaction. I stared at it, thinking it had to bounce. It didn't. It dragged me down with it. Wiped out 4 days of progress in 4 minutes."
+            
+            Pattern 3 - Impatience → No Risk Management:
+            "Saw the setup. Wasn't great. But I was tired of waiting. Over-leveraged. No stop. Convinced myself I could 'monitor manually.' It reversed immediately. Held. Watched. Prayed. Eventually closed — after losing double what I planned."
+            
+            Pattern 4 - FOMO → Gut Feeling Disaster:
+            "Missed the original move. Felt left out. Market dipped. No real signal. Just a 'feeling' it'd bounce. Full size. No confirmation. Just vibes and a gut instinct built on caffeine and sleep deprivation. Chart dropped harder. No bounce. Just pain."
+            
+            Pattern 5 - Holding Losers → False Hope:
+            "Watched it go red. Told myself to 'trust the process.' Watched it go deeper. 'It's just drawdown.' Account bled. Position doubled in size (magically). At some point, I wasn't even trading. I was just hoping."
+            
+            Pattern 6 - Perfect Timing Failure:
+            "Looked great. Perfect breakout. Jumped in. Top ticked myself. Market reversed. 'It's just a pullback,' I said. Added. It dumped. I panic-sold at the bottom. Five minutes later, it bounced without me."
+            
+            Pattern 7 - Ignoring Signals → Stubborn Hope:
+            "Price broke structure. Invalidated setup. Clear exit signal. But I had 'a feeling.' Stared at it as it bled. Told myself it was just 'accumulation.' Hours passed. Losses deepened. Still held. Eventually cut the trade out of shame, not logic."
+            
+            Pattern 8 - Plan vs Reality:
+            "Had the plan. Drew the zones. Waited. Watched. Then got impatient. Took an early entry 'just in case.' Price moved against me. Doubled down. Tried to 'average in.' Now I'm holding a bag."
+            
+            Use these patterns as inspiration for similar emotional journeys and sentence structures
+
             
             Target words: Hook {target_counts['hook']}, Body {target_counts['body']}, CTA {target_counts['cta']}
             """
